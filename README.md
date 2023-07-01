@@ -1,5 +1,5 @@
 # ChatAppAndroid
-This is a chat application where in users can chat in real time they can create the credentials(Number and emai password) and can chat with each other in the real time
+This is a chat application where in users can chat in real time they can create the credentials(Number and email password) and can chat with each other in the real time
 
 All the project files are uploaded in the git repository below.
 You dont need any additional settings just download the zip or copy the link to run in android studio.
